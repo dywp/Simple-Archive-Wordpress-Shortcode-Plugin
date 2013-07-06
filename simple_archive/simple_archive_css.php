@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Simple Archive
-Plugin URI: 
+Plugin URI: https://github.com/dywp/Simple-Archive-Wordpress-Shortcode-Plugin
 Description: Adds a shortcode to display your archive by year and month and listing the last 30 posts below
 Author: Dress Your Wordpress
 Author URI: http://dressyourwp.com
